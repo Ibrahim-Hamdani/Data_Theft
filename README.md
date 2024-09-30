@@ -1,4 +1,4 @@
-INCIDENT FINAL REPORT
+#INCIDENT FINAL REPORT
 
 Executive summary
 The organization experienced a security incident on December 28, 2022, at 7:20 p.m., PT,

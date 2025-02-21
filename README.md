@@ -1,24 +1,24 @@
 <h1>INCIDENT FINAL REPORT</h1>
 
 <h2>Executive summary<h2>
-The organization experienced a security incident on <b>December 28, 2022,</b> at<b>7:20 p.m., PT,</b> 
-during which an individual was able to gain unauthorized access to customer personal
-<b>identifiable information <i><(PII)</i></b> and financial information. Approximately<b> 50,000</b> customer
+The organization experienced a security incident on <b>December 28, 2022,</b> at<b>7:20 p.m., PT,</b> <br>
+during which an individual was able to gain unauthorized access to customer personal<br>
+<b>identifiable information <i><(PII)</i></b> and financial information. Approximately<b> 50,000</b> customer<br>
 records were affected. The financial impact of the incident is estimated to be<b>$100,000</b>  in
 direct costs and potential loss of revenue. The incident is now closed and a thorough
-investigation has been conducted.
-Timeline
+investigation has been conducted.<br>
+Timeline<br>
 At approximately 3:13 p.m., PT, on December 22, 2022, an employee received an email from an
 external email address. The email sender claimed that they had successfully stolen customer
 data. In exchange for not releasing the data to public forums, the sender requested a $25,000
 cryptocurrency payment. The employee assumed the email was spam and deleted it.
 On December 28, 2022, the same employee received another email from the same sender.
 This email included a sample of the stolen customer data and an increased payment demand
-of $50,000.
+of $50,000.<br>
 On the same day, the employee notified the security team, who began their investigation into
 the incident. Between December 28 and December 31, 2022, the security team concentrated
-on determining how the data was stolen and the extent of the theft.
-Investigation
+on determining how the data was stolen and the extent of the theft.<br>
+<h2>Investigation</h2>
 The security team received the alert and traveled on-site to begin the investigation.
 The root cause of the incident was identified as a vulnerability in the e-commerce web
 application. This vulnerability allowed the attacker to perform a forced browsing attack and

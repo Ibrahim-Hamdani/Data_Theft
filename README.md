@@ -1,10 +1,10 @@
-<h1>#INCIDENT FINAL REPORT</h1>
+<h1>INCIDENT FINAL REPORT</h1>
 
-Executive summary
-The organization experienced a security incident on December 28, 2022, at 7:20 p.m., PT,
+<h2>Executive summary<h2>
+The organization experienced a security incident on <b>December 28, 2022,</b> at<b>7:20 p.m., PT,</b> 
 during which an individual was able to gain unauthorized access to customer personal
-identifiable information (PII) and financial information. Approximately 50,000 customer
-records were affected. The financial impact of the incident is estimated to be $100,000 in
+<b>identifiable information <i><(PII)/i></b> and financial information. Approximately<b> 50,000</b> customer
+records were affected. The financial impact of the incident is estimated to be<b>$100,000</b>  in
 direct costs and potential loss of revenue. The incident is now closed and a thorough
 investigation has been conducted.
 Timeline
